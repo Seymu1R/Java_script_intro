@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#Task-1 {
+  background-color: rgb(220, 220, 220);
+  padding: 300px 0;
+  border: 5px dashed red;
+  text-align: center;
+}
+#Task-1 p {
+  font-size: 50px;
+  margin-top: 50px;
+}
+#Task-1 a {
+  text-decoration: none;
+  padding: 20px 40px;
+  background-color: green;
+}
+
+#Task-2 {
+  text-align: center;
+  background-color: blue;
+  padding: 50px 0;
+}
+#Task-2 p {
+  color: red;
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+#Task-2 a {
+  text-decoration: none;
+  padding: 20px 40px;
+  background-color: green;
+}/*# sourceMappingURL=style.css.map */
